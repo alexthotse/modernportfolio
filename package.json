@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://alexthotse.github.io/modernportfolio",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/ recursive",
+    
     "deploy": "gh-pages -d dist"
   },
   "author": "Alex Thotse",
